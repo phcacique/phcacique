@@ -1,4 +1,4 @@
-### Heello, world! 👋
+### Hello, world! 👋
 
 My name is Pedro Cacique and today I am the *Pedagogical Coordinator* at the **Apple Developer Academy | Mackenzie**, a project in collaboration between Apple and the Mackenzie Presbyterian University. I am an **Apple Distinguished Educator**.
 
