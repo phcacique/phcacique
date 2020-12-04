@@ -4,7 +4,7 @@ My name is Pedro Cacique and today I am the *Pedagogical Coordinator* at the **A
 
 I am currently working on small experiences in Swift. Check it on the Codevember repositories.
 
-I am also working on a framework for Generative Art in Swift [coming soon].
+I am also working on a framework for Generative Art in Swift.
 
 Some languages I like to code:
 - Swift
