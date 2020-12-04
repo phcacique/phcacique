@@ -1,16 +1,26 @@
-### Hi there 👋
+### Heello, world! 👋
 
-<!--
-**phcacique/phcacique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro Cacique and today I am the *Pedagogical Coordinator* at the **Apple Developer Academy | Mackenzie**, a project in collaboration between Apple and the Mackenzie Presbyterian University. I am an **Apple Distinguished Educator**.
 
-Here are some ideas to get you started:
+I am currently working on small experiences in Swift. Check it on the Codevember repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also working on a framework for Generative Art in Swift [coming soon].
+
+Some languages I like to code:
+- Swift
+- Java
+- C
+- C#
+- Javascript
+- HTML and CSS
+
+Most used IDEs:
+- XCode
+- Brackets
+- VSCode
+- Swift Playgrounds
+
+Anyway...
+- 📫 Feel free to contact me: phcacique@gmail.com
+- 📓 Check my portfolio on www.pedrocacique.com
+- 🖥 Also check my youtube channel: https://www.youtube.com/pedrocacique
